@@ -1,0 +1,15 @@
+{
+    "name": "Idle Monster Sim",
+    "short_name": "Idle Monster Sim",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#1F1F20",
+    "theme_color": "#000",
+    "description": "Idle Monster Sim!",
+    "icons": [{
+      "src": "TemplateData/icons/unity-logo-dark.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+  }
